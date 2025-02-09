@@ -1,7 +1,7 @@
 import cv2
 
 # Load the video
-video_path = 'your_video.mp4'  # Replace with your video file path
+video_path = "G:\BIkesh M 2081\ABC.mp4" # You can change the video path
 cap = cv2.VideoCapture(video_path)
 
 frame_count = 0
